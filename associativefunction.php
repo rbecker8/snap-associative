@@ -10,3 +10,4 @@ echo "Sue is " . $age['Sue'] . " years old.<br>";
 echo "Alan is " . $age['Alan'] . " years old.<br>";
 echo "Daniel is " . $age['Daniel'] . " years old.<br>";
 echo "Paula is " . $age['Paula'] ." years old.<br>";
+
